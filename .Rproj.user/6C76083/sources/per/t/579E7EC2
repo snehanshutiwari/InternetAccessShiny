@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513672122446.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2606929546",
+    "id" : "579E7EC2",
+    "lastKnownWriteTime" : 1513672357,
+    "last_content_update" : 1513672357621,
+    "path" : "C:/Users/sneha/Desktop/git/googleVisGeoGraphs/code/InterGrowthShinyApp.R",
+    "project_path" : "code/InterGrowthShinyApp.R",
+    "properties" : {
+        "cursorPosition" : "124,17",
+        "scrollLine" : "112"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
